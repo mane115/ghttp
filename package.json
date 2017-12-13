@@ -1,0 +1,28 @@
+{
+  "name": "ghttp",
+  "version": "1.0.0",
+  "description": "http client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mane115/ghttp.git"
+  },
+  "keywords": [
+    "http",
+    "node.js"
+  ],
+  "author": "gh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mane115/ghttp/issues"
+  },
+  "homepage": "https://github.com/mane115/ghttp#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
